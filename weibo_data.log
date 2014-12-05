@@ -1,0 +1,12 @@
+2014-12-04 17:06:52,487:DEBUG:Building prefix dict from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/dict.txt ...
+2014-12-04 17:06:53,682:DEBUG:Dumping model to file cache /var/folders/v9/pddmmxr11nv4m3jj1j21pthh0000gn/T/jieba.cache
+2014-12-04 17:06:54,244:DEBUG:Loading model cost 1.7566010952 seconds.
+2014-12-04 17:06:54,244:DEBUG:Prefix dict has been built succesfully.
+2014-12-04 17:07:33,479:DEBUG:Building prefix dict from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/dict.txt ...
+2014-12-04 17:07:33,482:DEBUG:Loading model from cache /var/folders/v9/pddmmxr11nv4m3jj1j21pthh0000gn/T/jieba.cache
+2014-12-04 17:07:34,110:DEBUG:Loading model cost 0.630294084549 seconds.
+2014-12-04 17:07:34,110:DEBUG:Prefix dict has been built succesfully.
+2014-12-04 17:10:33,016:DEBUG:Building prefix dict from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/dict.txt ...
+2014-12-04 17:10:33,018:DEBUG:Loading model from cache /var/folders/v9/pddmmxr11nv4m3jj1j21pthh0000gn/T/jieba.cache
+2014-12-04 17:10:33,669:DEBUG:Loading model cost 0.65292096138 seconds.
+2014-12-04 17:10:33,669:DEBUG:Prefix dict has been built succesfully.
